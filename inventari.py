@@ -147,6 +147,8 @@ class inventari(osv.osv):
             return {'type': 'ir.actions.act_window_close', 'warning': warning}
         
             #CALCOLO L'INVENTARIO AL METODO 
+            
+            #test git
                      
                 
 inventari()
